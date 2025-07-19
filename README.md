@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Automation Testing with Selenium and Pytest
 
 This project demonstrates end-to-end web automation testing using Selenium and Pytest in Python.  
@@ -83,3 +84,7 @@ Practiced structured coding and separation of concerns
 
 License
 This project is licensed under the MIT License.
+=======
+# web-automation-testing
+Automated end-to-end web testing using Selenium and Python.
+>>>>>>> 5d3fefad48cd9cc190ac5cf67408d29c175b04b7
