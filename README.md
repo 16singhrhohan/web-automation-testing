@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Automation Testing with Selenium and Pytest
 
 This project demonstrates end-to-end web automation testing using Selenium and Pytest in Python.  
@@ -29,16 +28,16 @@ It automates login functionality testing on (https://www.saucedemo.com), applyin
 ## Project Structure
 
 web-automation-testing/
-¦
+Â¦
 +-- tests/
-¦ +-- test_login.py # Contains login test cases
-¦
+Â¦ +-- test_login.py # Contains login test cases
+Â¦
 +-- pages/
-¦ +-- login_page.py # Page Object class for login page
-¦
+Â¦ +-- login_page.py # Page Object class for login page
+Â¦
 +-- utils/
-¦ +-- browser_setup.py # Sets up Selenium WebDriver
-¦
+Â¦ +-- browser_setup.py # Sets up Selenium WebDriver
+Â¦
 +-- requirements.txt # Project dependencies
 +-- README.md # Project documentation
 
