@@ -86,4 +86,3 @@ This project is licensed under the MIT License.
 =======
 # web-automation-testing
 Automated end-to-end web testing using Selenium and Python.
->>>>>>> 5d3fefad48cd9cc190ac5cf67408d29c175b04b7
